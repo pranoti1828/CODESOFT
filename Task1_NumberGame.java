@@ -30,3 +30,4 @@ public class NumberGame {
         sc.close();
     }
 }
+
