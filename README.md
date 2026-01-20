@@ -17,3 +17,4 @@ This is a simple Java console-based number guessing game.
 ```bash
 javac NumberGame.java
 java NumberGame
+
