@@ -42,8 +42,6 @@ class BankAccount {
         System.out.println("Current Balance:"+ balance);
     }
 }
-
-// ATM Interface class
 public class ATM {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -85,3 +83,4 @@ public class ATM {
         }
     }
 }
+
